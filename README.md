@@ -2,12 +2,20 @@
 
 ###
 
+
   <summary>👨‍💻 um pouco sobre mim</summary>
 
   - 💬 tenho 23 anos, sou da bahia e atualmente moro em Minas Gerais. Estou cursando bacharelado em Sistemas de Informação no IFNMG. Atualmente o meu foco está sendo a área de back-end
 
   - ⚡gosto de ler bons livros, como por exemplo fantasias e romances. Além disso, gosto de jogar video-games, ouvir musicas e maratonar séries.
 </details>
+
+### Contato
+<!-- Links -->
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tassiap_/?next=%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tassia-pereira-09719a244/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 
 
@@ -18,10 +26,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-
-## 🔥 o que eu codifico
+## 🔥 linguagens e ferramentas
 
 
 <div align="left">
@@ -37,23 +42,15 @@
 </div>
 
 
-### Contato
-<!-- Links -->
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tassiap_/?next=%2F)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tassia-pereira-09719a244/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-
-
-<div align="left">
-</div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tassia22/tassia22/output/snake.svg" alt="Snake animation" />
 
 ###
+<p align="left">
+  <img align="center"  height="350" src="https://i.pinimg.com/originals/1b/3c/58/1b3c5821c4ef798f196b30cc3eb46ac2.gif"  />
+</p>
+
 
 ###
