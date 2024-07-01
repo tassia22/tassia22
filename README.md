@@ -1,4 +1,4 @@
-<h2 align="left">Oiee, seja bem vindo(a)! eu me chamo Tássia</h2>
+<h2 align="left">Oiee, tudo bem? eu me chamo Tássia</h2>
 
 ###
 
