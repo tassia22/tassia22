@@ -5,7 +5,7 @@
 
   <summary>👨‍💻 um pouco sobre mim</summary>
 
-  - 💬 tenho 23 anos, sou da bahia e atualmente moro em Minas Gerais. Estou cursando bacharelado em Sistemas de Informação no IFNMG. Atualmente o meu foco está sendo a área de back-end
+  - 💬 tenho 24 anos, sou da bahia e atualmente moro em Minas Gerais. Estou cursando bacharelado em Sistemas de Informação no IFNMG. Atualmente o meu foco está sendo a área de back-end
 
   - ⚡gosto de ler bons livros, como por exemplo fantasias e romances. Além disso, gosto de jogar video-games, ouvir musicas e maratonar séries.
 </details>
